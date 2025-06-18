@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && cp dist/index.html ../404.html",
+    "build": "vite build && cp dist/index.html ../404.html && cp dist/index.html ../vite-vue-app/home/index.html",
     "preview": "vite build && vite preview"
   },
   "dependencies": {

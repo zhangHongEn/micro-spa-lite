@@ -22,6 +22,7 @@ export default ({ command }) => defineConfig({
   base: command === 'serve' ? 'http://localhost:5001' : "https://zhanghongen.github.io/micro-spa-lite/vite-vue-app/dist",
   server: {
     origin: "http://localhost:5001",
+    cors: true
   },
   build: {
     target: 'esnext',
