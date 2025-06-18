@@ -33,3 +33,8 @@ pnpm install && pnpm run dev
 ## 🧩 Single Module Development Guide
 
 If you only want to start a single sub-module for development and debugging, you can follow these steps:
+1. git clone https://github.com/zhangHongEn/micro-spa-lite.git
+2. `pnpm install && pnpm run dev`
+3. open chrome plugin `module-federation`
+4. vite-vue-app proxy to `http://localhost:5001/mf-manifest.json`
+5. rspack-react-app proxy to `http://localhost:5002/mf-manifest.json`
