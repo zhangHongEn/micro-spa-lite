@@ -1,0 +1,21 @@
+{
+  "name": "vite-vue-app",
+  "version": "1.0.0",
+  "type": "module",
+  "files": ["dist"],
+  "scripts": {
+    "dev": "vite --port 5001",
+    "build": "vite build",
+    "preview": "vite build && vite preview --port 5001"
+  },
+  "dependencies": {
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@module-federation/vite": "^1.4.1",
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^6.2.4",
+    "vite-plugin-vue-devtools": "^7.7.2"
+  }
+}

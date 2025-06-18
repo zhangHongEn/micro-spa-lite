@@ -1,0 +1,28 @@
+import { rspack } from '@rsbuild/core';
+import { defineConfig } from '@rsbuild/core';
+import { pluginReact } from '@rsbuild/plugin-react';
+import { pluginModuleFederation } from '@module-federation/rsbuild-plugin';
+
+export default defineConfig({
+  server: {
+    port: 5002,
+  },
+  output: {
+    // You need to set a unique value that is not equal to other applications
+    uniqueName: 'rspack_react_app',
+    // publicPath must be configured if using manifest
+    publicPath: 'http://localhost:5002/',
+    assetPrefix: 'https://unpkg.com/rspack_react_app@1.0.0/dist/',
+  },
+  plugins: [
+    pluginReact(),
+    new pluginModuleFederation({
+      name: 'rspack_react_app',
+      manifest: true,
+      exposes: {
+        './main': './src/main',
+      },
+      shared: ['react', 'react-dom'],
+    })
+  ],
+});

@@ -1,0 +1,14 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+    "scripts": {
+      "dev": "pnpm --parallel --filter './*' dev",
+      "preview": "pnpm --parallel --filter './*' preview"
+    },
+    "engines": {
+  "pnpm": ">=7 <10"
+},
+  "devDependencies": {
+  }
+}

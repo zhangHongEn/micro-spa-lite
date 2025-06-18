@@ -1,0 +1,4 @@
+packages:
+  - 'mfe-main'
+  - 'rspack-react-app'
+  - 'vite-vue-app'

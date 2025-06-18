@@ -1,0 +1,16 @@
+{
+  "cdn": "https://static.chagee.com",
+  "testDomain": "https://manager2-test.bwcj.com",
+  "apps": [
+    {
+      "appCode": "vite-vue-app",
+      "routes": ["/vite-vue-app"],
+      "entry": "https://unpkg.com/vite-vue-app@1.0.0/dist/mf-manifest.json"
+    },
+    {
+      "appCode": "rspack_react_app",
+      "routes": ["/rspack_react_app"],
+      "entry": "https://unpkg.com/rspack_react_app@1.0.0/dist/mf-manifest.json"
+    }
+  ]
+}
