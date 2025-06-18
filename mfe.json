@@ -1,6 +1,4 @@
 {
-  "cdn": "https://static.chagee.com",
-  "testDomain": "https://manager2-test.bwcj.com",
   "apps": [
     {
       "appCode": "vite-vue-app",
