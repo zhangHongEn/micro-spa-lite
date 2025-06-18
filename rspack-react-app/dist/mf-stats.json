@@ -9,7 +9,7 @@
       "buildName": "rspack_react_app"
     },
     "remoteEntry": {
-      "name": "static/js/rspack_react_app.a511a7e3.js",
+      "name": "static/js/rspack_react_app.1b85116c.js",
       "path": "",
       "type": "global"
     },
@@ -22,7 +22,7 @@
     "globalName": "rspack_react_app",
     "pluginVersion": "0.15.0",
     "prefetchInterface": false,
-    "publicPath": "https://zhanghongen.github.io/micro-spa-lite/rspack_react_app/dist/"
+    "publicPath": "https://zhanghongen.github.io/micro-spa-lite/rspack-react-app/dist/"
   },
   "shared": [
     {
