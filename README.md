@@ -31,3 +31,18 @@ If you only want to start a single sub-module for development and debugging, you
 3. open chrome plugin `module-federation`
 4. vite-vue-app proxy to `http://localhost:5001/mf-manifest.json`
 5. rspack-react-app proxy to `http://localhost:5002/mf-manifest.json`
+
+---
+
+## Add a New Application
+mfe.json
+```json
+{
+  "apps": [
+    {
+      "appCode": "vite-vue-app",
+      "routes": ["/micro-spa-lite/new-app"],
+      "entry": "entry": "http://localhost:5003/mf-manifest.json"
+    }
+  ]
+}
