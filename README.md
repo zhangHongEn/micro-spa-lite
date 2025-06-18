@@ -1,6 +1,6 @@
 # Micro‑SPA‑Lite 🚀
 
-Ultra‑lightweight micro‑frontend boilerplate (~100 LOC) with single‑spa, Module Federation & Chrome extension support
+Ultra‑lightweight micro‑frontend boilerplate (~50 LOC) with single‑spa, Module Federation & Chrome extension support
 
 Start building blazing‑fast micro‑frontends in minutes – no boilerplate bloat, full performance toolkit.
 
@@ -16,7 +16,7 @@ Start building blazing‑fast micro‑frontends in minutes – no boilerplate bl
 
 ## 🚀 Features
 
--	**Minimal Design**: Core logic written in fewer than 100 lines of JavaScript, enabling micro-frontend app loading, mounting, and unmounting ([mfe-main](https://github.com/zhangHongEn/micro-spa-lite/tree/main/mfe-main/src))
+-	**Minimal Design**: Core logic written in fewer than 50 lines of JavaScript, enabling micro-frontend app loading, mounting, and unmounting ([mfe-main](https://github.com/zhangHongEn/micro-spa-lite/tree/main/mfe-main/src))
 -	**Lightweight Dependencies**: No additional runtime frameworks; relies only on single-spa and Module Federation
 -	**High-Performance Loading**: Uses manifest + runtimePlugins to enable parallel loading of main and sub-apps on first screen, eliminating waterfall loading
 -	**Flexible Development Mode**: Supports local development of any sub-app via Chrome extension proxy without modifying the main app
