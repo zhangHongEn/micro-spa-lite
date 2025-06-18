@@ -4,7 +4,8 @@
   "version": "0.0.0",
     "scripts": {
       "dev": "pnpm --parallel --filter './*' dev",
-      "preview": "pnpm --parallel --filter './*' preview"
+      "preview": "pnpm --parallel --filter './*' preview",
+      "build": "pnpm --parallel --filter './*' build"
     },
     "engines": {
   "pnpm": ">=7 <10"

@@ -8,7 +8,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vite.dev/config/
 export default ({command}) => defineConfig({
-  base: command === "serve" ? "/" : "https://zhanghongen.github.io/micro-spa-lite/mfe-main/",
+  base: command === "serve" ? "/" : "https://zhanghongen.github.io/micro-spa-lite/mfe-main/dist/",
   plugins: [
     vue(),
     AutoImport({
