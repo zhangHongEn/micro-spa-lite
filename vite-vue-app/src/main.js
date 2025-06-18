@@ -9,12 +9,12 @@ const router = createRouter({
   history: createWebHistory(),
   routes: [
     {
-      path: '/vite-vue-app/home',
+      path: '/micro-spa-lite/vite-vue-app/home',
       name: 'home',
       component: HomeView,
     },
     {
-      path: '/vite-vue-app/about',
+      path: '/micro-spa-lite/vite-vue-app/about',
       name: 'about',
       component: () => import('./views/AboutView.vue'),
     },

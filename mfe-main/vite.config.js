@@ -31,7 +31,7 @@ export default ({command}) => defineConfig({
     }),
   ],
   server: {
-    open: '/vite-vue-app/home',
+    open: '/micro-spa-lite/vite-vue-app/home',
   },
   build: {
     target: 'esnext',
