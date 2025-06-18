@@ -5,8 +5,8 @@
     "src": "../node_modules/.pnpm/vue@3.5.16_typescript@5.8.3/node_modules/vue/dist/vue.runtime.esm-bundler.js",
     "isDynamicEntry": true
   },
-  "_main-COlVN1ly.js": {
-    "file": "assets/main-COlVN1ly.js",
+  "_main-D5tTvmis.js": {
+    "file": "assets/main-D5tTvmis.js",
     "name": "main",
     "isDynamicEntry": true,
     "imports": [
@@ -26,18 +26,18 @@
     "name": "vite_mf_2_vue_mf_2_app__mf_v__runtimeInit__mf_v__"
   },
   "index.html": {
-    "file": "assets/index-DYdp3YFB.js",
+    "file": "assets/index-aHEzPYaD.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "imports": [
-      "_main-COlVN1ly.js",
+      "_main-D5tTvmis.js",
       "_preload-helper-DH9EAith.js",
       "_vite_mf_2_vue_mf_2_app__mf_v__runtimeInit__mf_v__-DAs6oBq8.js"
     ]
   },
   "node_modules/__mf__virtual/vite_mf_2_vue_mf_2_app__H_A_I__hostAutoInit__H_A_I__.js": {
-    "file": "assets/hostInit-DLNuF6uK.js",
+    "file": "assets/hostInit-CJUZEBA5.js",
     "name": "hostInit",
     "src": "node_modules/__mf__virtual/vite_mf_2_vue_mf_2_app__H_A_I__hostAutoInit__H_A_I__.js",
     "isEntry": true,
@@ -49,22 +49,22 @@
     ]
   },
   "src/views/AboutView.vue": {
-    "file": "assets/AboutView-7eX7K9-3.js",
+    "file": "assets/AboutView-LStnojhH.js",
     "name": "AboutView",
     "src": "src/views/AboutView.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_main-COlVN1ly.js",
+      "_main-D5tTvmis.js",
       "_preload-helper-DH9EAith.js",
       "_vite_mf_2_vue_mf_2_app__mf_v__runtimeInit__mf_v__-DAs6oBq8.js"
     ]
   },
   "style.css": {
-    "file": "assets/style-DTj_nxIO.css",
+    "file": "assets/style-DNMi7hAB.css",
     "src": "style.css"
   },
   "virtual:mf-REMOTE_ENTRY_ID": {
-    "file": "assets/remoteEntry-n78R2koQ.js",
+    "file": "assets/remoteEntry-_SUahW07.js",
     "name": "remoteEntry",
     "src": "virtual:mf-REMOTE_ENTRY_ID",
     "isEntry": true,
@@ -79,7 +79,7 @@
     ]
   },
   "virtual:mf-exposes": {
-    "file": "assets/virtualExposes-CQhviCsR.js",
+    "file": "assets/virtualExposes-Dk-ZibTD.js",
     "name": "virtualExposes",
     "src": "virtual:mf-exposes",
     "isEntry": true,
@@ -87,7 +87,7 @@
       "_preload-helper-DH9EAith.js"
     ],
     "dynamicImports": [
-      "_main-COlVN1ly.js"
+      "_main-D5tTvmis.js"
     ]
   }
 }
