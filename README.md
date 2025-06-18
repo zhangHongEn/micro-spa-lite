@@ -4,7 +4,14 @@ Ultra‑lightweight micro‑frontend boilerplate (~100 LOC) with single‑spa,
 
 Start building blazing‑fast micro‑frontends in minutes – no boilerplate bloat, full performance toolkit.
 
-Example using a Vite Vue app and a Rspack React app as two micro frontend sub-applications
+---
+
+## 🌐 Online Demo Experience
+
+🔗 **Host Demo**: Click here to see the live demo -> [Live Demo](https://zhanghongen.github.io/micro-spa-lite/vite-vue-app/home/) 
+- Demonstrates on-demand loading of Vite Vue and Rspack React apps, with dynamic switching in the UI
+- Chrome extension example showcases non-intrusive injection of sub-modules into any page
+
 
 ![](./docs/img/performance.png)
 ![](./docs/img/develop.gif)
@@ -16,14 +23,6 @@ Example using a Vite Vue app and a Rspack React app as two micro frontend sub-ap
 -	**Lightweight Dependencies**: No additional runtime frameworks; relies only on single-spa and Module Federation
 -	**High-Performance Loading**: Uses manifest + runtimePlugins to enable parallel loading of main and sub-apps on first screen, eliminating waterfall loading
 -	**Flexible Development Mode**: Supports local development of any sub-app via Chrome extension proxy without modifying the main app
-
----
-
-## 🌐 Online Demo Experience
-
-🔗 **Host Demo**: Click here to see the live demo -> [Live Demo](https://zhanghongen.github.io/micro-spa-lite/vite-vue-app/home/) 
-- Demonstrates on-demand loading of Vite Vue and Rspack React apps, with dynamic switching in the UI
-- Chrome extension example showcases non-intrusive injection of sub-modules into any page
 
 ---
 
