@@ -1,4 +1,4 @@
-import { i as index_cjs, m as mfe_mf_2_main__mf_v__runtimeInit__mf_v__, a as apps } from './mfe_mf_2_main__mf_v__runtimeInit__mf_v__-C9pQMqgV.js';
+import { i as index_cjs, m as mfe_mf_2_main__mf_v__runtimeInit__mf_v__, a as apps } from './mfe_mf_2_main__mf_v__runtimeInit__mf_v__-BfT3XUdd.js';
 import { i as isString$1, a as isObject$1, h as hasOwn, N as NOOP, b as isFunction$1, c as isArray$1 } from './shared.esm-bundler-BRYTs3j7.js';
 
 true              &&(function polyfill() {

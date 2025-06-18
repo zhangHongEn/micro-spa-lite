@@ -13,7 +13,7 @@ export default defineConfig({
     // publicPath must be configured if using manifest
     publicPath: 'http://localhost:5002/',
     // 仅dev时设置assetPrefix
-    assetPrefix: process.env.NODE_ENV === 'development' ? 'http://localhost:5002/' : 'https://unpkg.com/rspack_react_app@1.0.0/dist/',
+    assetPrefix: process.env.NODE_ENV === 'development' ? 'http://localhost:5002/' : 'https://zhanghongen.github.io/micro-spa-lite/rspack_react_app/dist/',
   },
   plugins: [
     pluginReact(),

@@ -4339,7 +4339,7 @@ utils_cjs.getGlobalFederationInstance = getGlobalFederationInstance;
 	exports.registerRemotes = registerRemotes; 
 } (index_cjs$3));
 
-const apps = [{"appCode":"vite-vue-app","routes":["/vite-vue-app"],"entry":"http://localhost:5001/mf-manifest.json","entry1":"https://unpkg.com/vite-app-vue@1.0.0/dist/mf-manifest.json"},{"appCode":"rspack_react_app","routes":["/rspack_react_app"],"entry":"http://localhost:5002/mf-manifest.json","entry1":"https://unpkg.com/rspack_react_app@1.0.0/dist/mf-manifest.json"}];
+const apps = [{"appCode":"vite-vue-app","routes":["/vite-vue-app"],"entry":"https://zhanghongen.github.io/micro-spa-lite/vite-vue-app/dist/mf-manifest.json"},{"appCode":"rspack_react_app","routes":["/rspack_react_app"],"entry":"https://zhanghongen.github.io/micro-spa-lite/rspack_react_app/dist/mf-manifest.json"}];
 
 let initResolve, initReject;
     const initPromise = new Promise((re, rj) => {
