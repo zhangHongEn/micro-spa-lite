@@ -1,7 +1,7 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./vue.runtime.esm-bundler-DotGEke7.js","./shared.esm-bundler-BRYTs3j7.js"])))=>i.map(i=>d[i]);
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/vue.runtime.esm-bundler-DotGEke7.js","assets/shared.esm-bundler-BRYTs3j7.js"])))=>i.map(i=>d[i]);
 import { a as apps, i as index_cjs, m as mfe_mf_2_main__mf_v__runtimeInit__mf_v__ } from './mfe_mf_2_main__mf_v__runtimeInit__mf_v__-C9pQMqgV.js';
 import exposesMap from './virtualExposes-DwA08f_D.js';
-import { _ as __vitePreload } from './preload-helper-CKlQz3_F.js';
+import { _ as __vitePreload } from './preload-helper-LZM-Uoqt.js';
 
 /**
  * Preload micro-frontend applications
@@ -61,7 +61,7 @@ function $runtimePlugin_0() {
 const importMap = {
       
         "vue": async () => {
-          let pkg = await __vitePreload(() => import('./vue.runtime.esm-bundler-DotGEke7.js'),true              ?__vite__mapDeps([0,1]):void 0,import.meta.url);
+          let pkg = await __vitePreload(() => import('./vue.runtime.esm-bundler-DotGEke7.js'),true              ?__vite__mapDeps([0,1]):void 0);
           return pkg
         }
       

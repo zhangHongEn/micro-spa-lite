@@ -1,5 +1,5 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/AboutView-Bm1NSl-f.js","assets/preload-helper-BZe1Ifct.js","assets/vite_mf_2_vue_mf_2_app__mf_v__runtimeInit__mf_v__-DAs6oBq8.js"])))=>i.map(i=>d[i]);
-import { _ as __vitePreload } from './preload-helper-BZe1Ifct.js';
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/AboutView-DHZuFFLO.js","assets/preload-helper-DH9EAith.js","assets/vite_mf_2_vue_mf_2_app__mf_v__runtimeInit__mf_v__-DAs6oBq8.js"])))=>i.map(i=>d[i]);
+import { _ as __vitePreload } from './preload-helper-DH9EAith.js';
 import { v as vite_mf_2_vue_mf_2_app__mf_v__runtimeInit__mf_v__, i as index_cjs } from './vite_mf_2_vue_mf_2_app__mf_v__runtimeInit__mf_v__-DAs6oBq8.js';
 
 // dev uses dynamic import to separate chunks
@@ -1920,7 +1920,7 @@ const router = createRouter({
     {
       path: '/vite-vue-app/about',
       name: 'about',
-      component: () => __vitePreload(() => import('./AboutView-Bm1NSl-f.js'),true              ?__vite__mapDeps([0,1,2]):void 0),
+      component: () => __vitePreload(() => import('./AboutView-DHZuFFLO.js'),true              ?__vite__mapDeps([0,1,2]):void 0),
     },
   ],
 });
