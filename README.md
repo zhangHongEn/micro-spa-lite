@@ -9,9 +9,6 @@ Start building blazing‑fast micro‑frontends in minutes – no boilerplate bl
 ## 🌐 Online Demo Experience
 
 🔗 **Host Demo**: Click here to see the live demo -> [Live Demo](https://zhanghongen.github.io/micro-spa-lite/vite-vue-app/home/) 
-- Demonstrates on-demand loading of Vite Vue and Rspack React apps, with dynamic switching in the UI
-- Chrome extension example showcases non-intrusive injection of sub-modules into any page
-
 
 ![](./docs/img/performance.png)
 ![](./docs/img/develop.gif)
