@@ -1,5 +1,7 @@
 # Micro‑SPA‑Lite 🚀
 
+[Live Demo](https://zhanghongen.github.io/micro-spa-lite/vite-vue-app/home/)
+
 ![](./docs/img/performance.png)
 
 Ultra‑lightweight micro‑frontend boilerplate (~100 LOC) with single‑spa, Module Federation & Chrome extension support
