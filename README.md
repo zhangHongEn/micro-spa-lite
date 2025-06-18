@@ -6,11 +6,8 @@ Start building blazing‑fast micro‑frontends in minutes – no boilerplate bl
 
 Example using a Vite Vue app and a Rspack React app as two micro frontend sub-applications
 
-```
-pnpm install && pnpm run dev
-```
-
 ![](./docs/img/performance.png)
+![](./docs/img/develop.gif)
 
 
 ## 🚀 Features
