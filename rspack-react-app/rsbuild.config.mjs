@@ -6,6 +6,7 @@ import { pluginModuleFederation } from '@module-federation/rsbuild-plugin';
 export default defineConfig({
   server: {
     port: 5002,
+    cors: true
   },
   output: {
     // You need to set a unique value that is not equal to other applications

@@ -1,4 +1,4 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/AboutView-B4RVnGFB.js","assets/preload-helper-DH9EAith.js","assets/vite_mf_2_vue_mf_2_app__mf_v__runtimeInit__mf_v__-DAs6oBq8.js"])))=>i.map(i=>d[i]);
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/AboutView-7eX7K9-3.js","assets/preload-helper-DH9EAith.js","assets/vite_mf_2_vue_mf_2_app__mf_v__runtimeInit__mf_v__-DAs6oBq8.js"])))=>i.map(i=>d[i]);
 import { _ as __vitePreload } from './preload-helper-DH9EAith.js';
 import { v as vite_mf_2_vue_mf_2_app__mf_v__runtimeInit__mf_v__, i as index_cjs } from './vite_mf_2_vue_mf_2_app__mf_v__runtimeInit__mf_v__-DAs6oBq8.js';
 
@@ -1893,7 +1893,7 @@ return (_ctx, _cache) => {
   const _component_router_link = vite_mf_2_vue_mf_2_app__loadShare__vue__loadShare__.resolveComponent("router-link");
 
   return (vite_mf_2_vue_mf_2_app__loadShare__vue__loadShare__.openBlock(), vite_mf_2_vue_mf_2_app__loadShare__vue__loadShare__.createElementBlock("div", _hoisted_1, [
-    _cache[1] || (_cache[1] = vite_mf_2_vue_mf_2_app__loadShare__vue__loadShare__.createElementVNode("h1", null, "local333 Vue Home", -1)),
+    _cache[1] || (_cache[1] = vite_mf_2_vue_mf_2_app__loadShare__vue__loadShare__.createElementVNode("h1", null, "Vue Home", -1)),
     _cache[2] || (_cache[2] = vite_mf_2_vue_mf_2_app__loadShare__vue__loadShare__.createElementVNode("p", null, "This is the main landing page of your Vue 3 app.", -1)),
     vite_mf_2_vue_mf_2_app__loadShare__vue__loadShare__.createVNode(_component_router_link, { to: "/micro-spa-lite/vite-vue-app/about" }, {
       default: vite_mf_2_vue_mf_2_app__loadShare__vue__loadShare__.withCtx(() => _cache[0] || (_cache[0] = [
@@ -1907,7 +1907,7 @@ return (_ctx, _cache) => {
 }
 
 };
-const HomeView = /*#__PURE__*/_export_sfc(_sfc_main, [['__scopeId',"data-v-bb56cd8b"]]);
+const HomeView = /*#__PURE__*/_export_sfc(_sfc_main, [['__scopeId',"data-v-ce0f722d"]]);
 
 const router = createRouter({
   history: createWebHistory(),
@@ -1920,7 +1920,7 @@ const router = createRouter({
     {
       path: '/micro-spa-lite/vite-vue-app/about',
       name: 'about',
-      component: () => __vitePreload(() => import('./AboutView-B4RVnGFB.js'),true              ?__vite__mapDeps([0,1,2]):void 0),
+      component: () => __vitePreload(() => import('./AboutView-7eX7K9-3.js'),true              ?__vite__mapDeps([0,1,2]):void 0),
     },
   ],
 });
