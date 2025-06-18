@@ -5,12 +5,14 @@
     {
       "appCode": "vite-vue-app",
       "routes": ["/vite-vue-app"],
-      "entry": "https://unpkg.com/vite-vue-app@1.0.0/dist/mf-manifest.json"
+      "entry": "http://localhost:5001/mf-manifest.json",
+      "entry1": "https://unpkg.com/vite-app-vue@1.0.0/dist/mf-manifest.json"
     },
     {
       "appCode": "rspack_react_app",
       "routes": ["/rspack_react_app"],
-      "entry": "https://unpkg.com/rspack_react_app@1.0.0/dist/mf-manifest.json"
+      "entry": "http://localhost:5002/mf-manifest.json",
+      "entry1": "https://unpkg.com/rspack_react_app@1.0.0/dist/mf-manifest.json"
     }
   ]
 }

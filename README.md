@@ -1,5 +1,11 @@
 # Micro‑SPA‑Lite 🚀
 
-Micro‑SPA‑Lite – Ultra‑lightweight micro‑frontend boilerplate (~100 LOC) with Module Federation, single‑spa orchestration & Chrome plugin support
+Ultra‑lightweight micro‑frontend boilerplate (~100 LOC) with single‑spa, Module Federation & Chrome extension support
 
-Start building micro‑frontends with minimal setup, maximum flexibility.
+Start building blazing‑fast micro‑frontends in minutes – no boilerplate bloat, full performance toolkit.
+
+Example using a Vite Vue app and a Rspack React app as two micro frontend sub-applications
+
+```
+pnpm install && pnpm run dev
+```

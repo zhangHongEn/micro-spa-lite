@@ -12,7 +12,8 @@ export default defineConfig({
     uniqueName: 'rspack_react_app',
     // publicPath must be configured if using manifest
     publicPath: 'http://localhost:5002/',
-    assetPrefix: 'https://unpkg.com/rspack_react_app@1.0.0/dist/',
+    // 仅dev时设置assetPrefix
+    assetPrefix: process.env.NODE_ENV === 'development' ? 'http://localhost:5002/' : 'https://unpkg.com/rspack_react_app@1.0.0/dist/',
   },
   plugins: [
     pluginReact(),

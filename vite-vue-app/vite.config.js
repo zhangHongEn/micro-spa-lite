@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 import { federation } from '@module-federation/vite'
 
 // https://vite.dev/config/
-export default defineConfig({
+export default ({ command }) => defineConfig({
   plugins: [
     vue(),
     vueDevTools(),
@@ -19,7 +19,7 @@ export default defineConfig({
       shared: ['vue']
     })
   ],
-  base: "https://unpkg.com/vite-vue-app@1.0.0/dist/",
+  base: command === 'serve' ? 'http://localhost:5001' : "https://unpkg.com/vite-vue-app@1.0.0/dist/",
   server: {
     origin: "http://localhost:5001",
   },

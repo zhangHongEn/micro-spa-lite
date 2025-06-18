@@ -1,0 +1,88 @@
+{
+  "id": "rspack_react_app",
+  "name": "rspack_react_app",
+  "metaData": {
+    "name": "rspack_react_app",
+    "type": "app",
+    "buildInfo": {
+      "buildVersion": "1.0.0",
+      "buildName": "rspack_react_app"
+    },
+    "remoteEntry": {
+      "name": "static/js/rspack_react_app.892fee82.js",
+      "path": "",
+      "type": "global"
+    },
+    "types": {
+      "path": "",
+      "name": "",
+      "zip": "",
+      "api": ""
+    },
+    "globalName": "rspack_react_app",
+    "pluginVersion": "0.15.0",
+    "prefetchInterface": false,
+    "publicPath": "https://unpkg.com/rspack_react_app@1.0.0/dist/"
+  },
+  "shared": [
+    {
+      "id": "rspack_react_app:react",
+      "name": "react",
+      "version": "18.3.1",
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "static/js/async/292.37f94e6a.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    },
+    {
+      "id": "rspack_react_app:react-dom",
+      "name": "react-dom",
+      "version": "*",
+      "singleton": true,
+      "requiredVersion": "^18.3.1",
+      "assets": {
+        "js": {
+          "async": [],
+          "sync": [
+            "static/js/async/454.29df7f85.js"
+          ]
+        },
+        "css": {
+          "async": [],
+          "sync": []
+        }
+      }
+    }
+  ],
+  "remotes": [],
+  "exposes": [
+    {
+      "id": "rspack_react_app:main",
+      "name": "main",
+      "assets": {
+        "js": {
+          "sync": [
+            "static/js/async/lib-router.9e53c002.js",
+            "static/js/async/__federation_expose_main.4ab219c7.js"
+          ],
+          "async": []
+        },
+        "css": {
+          "sync": [],
+          "async": []
+        }
+      },
+      "path": "./main"
+    }
+  ]
+}
