@@ -9,7 +9,7 @@
       "buildName": "rspack_react_app"
     },
     "remoteEntry": {
-      "name": "static/js/rspack_react_app.fbef356b.js",
+      "name": "static/js/rspack_react_app.409d191b.js",
       "path": "",
       "type": "global"
     },
@@ -88,7 +88,7 @@
         "js": {
           "sync": [
             "static/js/async/lib-router.9e53c002.js",
-            "static/js/async/__federation_expose_main.48948151.js"
+            "static/js/async/__federation_expose_main.739954c3.js"
           ],
           "async": []
         },

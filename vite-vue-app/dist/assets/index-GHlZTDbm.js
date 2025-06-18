@@ -1,4 +1,4 @@
-import './main-Bk1sSl43.js';
+import './main-Ob0cAnV_.js';
 import './preload-helper-DH9EAith.js';
 import './vite_mf_2_vue_mf_2_app__mf_v__runtimeInit__mf_v__-DAs6oBq8.js';
 

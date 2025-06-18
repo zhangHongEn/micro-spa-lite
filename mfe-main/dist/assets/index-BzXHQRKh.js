@@ -6760,8 +6760,8 @@ const _sfc_main = /* @__PURE__ */ mfe_mf_2_main__loadShare__vue__loadShare__.def
                 mfe_mf_2_main__loadShare__vue__loadShare__.createVNode(_component_el_menu_item_group, null, {
                   default: mfe_mf_2_main__loadShare__vue__loadShare__.withCtx(() => [
                     mfe_mf_2_main__loadShare__vue__loadShare__.createVNode(_component_el_menu_item, {
-                      index: "/micro-spa-lite/vite-vue-app/home",
-                      onClick: _cache[0] || (_cache[0] = ($event) => mfe_mf_2_main__loadShare__vue__loadShare__.unref(tt$1)("/micro-spa-lite/vite-vue-app/home"))
+                      index: "/micro-spa-lite/vite-vue-app/home/",
+                      onClick: _cache[0] || (_cache[0] = ($event) => mfe_mf_2_main__loadShare__vue__loadShare__.unref(tt$1)("/micro-spa-lite/vite-vue-app/home/"))
                     }, {
                       default: mfe_mf_2_main__loadShare__vue__loadShare__.withCtx(() => _cache[5] || (_cache[5] = [
                         mfe_mf_2_main__loadShare__vue__loadShare__.createTextVNode("home")

@@ -10,7 +10,7 @@
         <span>vite-vue-app</span>
       </template>
       <el-menu-item-group>
-        <el-menu-item index="/micro-spa-lite/vite-vue-app/home" @click="navigateToUrl('/micro-spa-lite/vite-vue-app/home')">home</el-menu-item>
+        <el-menu-item index="/micro-spa-lite/vite-vue-app/home/" @click="navigateToUrl('/micro-spa-lite/vite-vue-app/home/')">home</el-menu-item>
         <el-menu-item index="/micro-spa-lite/vite-vue-app/about" @click="navigateToUrl('/micro-spa-lite/vite-vue-app/about')">about</el-menu-item>
       </el-menu-item-group>
     </el-sub-menu>
