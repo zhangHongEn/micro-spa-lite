@@ -6,7 +6,7 @@ export default function Home() {
     <div style={{ padding: 20 }}>
       <h1>Home Page</h1>
       <p>Welcome to the Home page of your React app.</p>
-      <Link to="/rspack_react_app/about">Go to About</Link>
+      <Link to="/micro-spa-lite/rspack_react_app/about">Go to About</Link>
     </div>
   );
 }

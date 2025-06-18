@@ -8,8 +8,8 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/rspack_react_app/home" element={<Home />} />
-        <Route path="/rspack_react_app/about" element={<About />} />
+        <Route path="/micro-spa-lite/rspack_react_app/home" element={<Home />} />
+        <Route path="/micro-spa-lite/rspack_react_app/about" element={<About />} />
       </Routes>
     </Router>
   );
