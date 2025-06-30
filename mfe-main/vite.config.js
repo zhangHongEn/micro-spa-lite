@@ -8,7 +8,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vite.dev/config/
 export default ({command}) => defineConfig({
-  base: command === "serve" ? "/" : "https://zhanghongen.github.io/micro-spa-lite/mfe-main/dist/",
+  base: command === "serve" ? "/" : "https://zhanghongen.github.io/module-federation-spa-boilerplate/mfe-main/dist/",
   plugins: [
     vue(),
     AutoImport({
@@ -31,7 +31,7 @@ export default ({command}) => defineConfig({
     }),
   ],
   server: {
-    open: '/micro-spa-lite/vite-vue-app/home',
+    open: '/module-federation-spa-boilerplate/vite-vue-app/home',
   },
   build: {
     target: 'esnext',

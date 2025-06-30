@@ -1,7 +1,7 @@
 const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/vue.runtime.esm-bundler-DotGEke7.js","assets/shared.esm-bundler-BRYTs3j7.js"])))=>i.map(i=>d[i]);
-import { a as apps, i as index_cjs, m as mfe_mf_2_main__mf_v__runtimeInit__mf_v__ } from './mfe_mf_2_main__mf_v__runtimeInit__mf_v__-Cuw2nlKT.js';
+import { a as apps, i as index_cjs, m as mfe_mf_2_main__mf_v__runtimeInit__mf_v__ } from './mfe_mf_2_main__mf_v__runtimeInit__mf_v__-ChqWbBKw.js';
 import exposesMap from './virtualExposes-DwA08f_D.js';
-import { _ as __vitePreload } from './preload-helper-CBUvn2pc.js';
+import { _ as __vitePreload } from './preload-helper-Bnnv1QbC.js';
 
 /**
  * Preload micro-frontend applications

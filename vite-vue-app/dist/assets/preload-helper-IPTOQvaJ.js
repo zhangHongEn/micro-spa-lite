@@ -1,4 +1,4 @@
-const scriptRel = 'modulepreload';const assetsURL = function(dep) { return "https://zhanghongen.github.io/micro-spa-lite/mfe-main/dist/"+dep };const seen = {};const __vitePreload = function preload(baseModule, deps, importerUrl) {
+const scriptRel = 'modulepreload';const assetsURL = function(dep) { return "https://zhanghongen.github.io/module-federation-spa-boilerplate/vite-vue-app/dist/"+dep };const seen = {};const __vitePreload = function preload(baseModule, deps, importerUrl) {
   let promise = Promise.resolve();
   if (true               && deps && deps.length > 0) {
     let allSettled2 = function(promises) {

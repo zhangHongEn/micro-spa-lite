@@ -1,4 +1,4 @@
-import { i as index_cjs, m as mfe_mf_2_main__mf_v__runtimeInit__mf_v__, a as apps } from './mfe_mf_2_main__mf_v__runtimeInit__mf_v__-Cuw2nlKT.js';
+import { i as index_cjs, m as mfe_mf_2_main__mf_v__runtimeInit__mf_v__, a as apps } from './mfe_mf_2_main__mf_v__runtimeInit__mf_v__-ChqWbBKw.js';
 import { i as isString$1, a as isObject$1, h as hasOwn, N as NOOP, b as isFunction$1, c as isArray$1 } from './shared.esm-bundler-BRYTs3j7.js';
 
 true              &&(function polyfill() {
@@ -6760,8 +6760,8 @@ const _sfc_main = /* @__PURE__ */ mfe_mf_2_main__loadShare__vue__loadShare__.def
                 mfe_mf_2_main__loadShare__vue__loadShare__.createVNode(_component_el_menu_item_group, null, {
                   default: mfe_mf_2_main__loadShare__vue__loadShare__.withCtx(() => [
                     mfe_mf_2_main__loadShare__vue__loadShare__.createVNode(_component_el_menu_item, {
-                      index: "/micro-spa-lite/vite-vue-app/home/",
-                      onClick: _cache[0] || (_cache[0] = ($event) => mfe_mf_2_main__loadShare__vue__loadShare__.unref(tt$1)("/micro-spa-lite/vite-vue-app/home/"))
+                      index: "/module-federation-spa-boilerplate/vite-vue-app/home/",
+                      onClick: _cache[0] || (_cache[0] = ($event) => mfe_mf_2_main__loadShare__vue__loadShare__.unref(tt$1)("/module-federation-spa-boilerplate/vite-vue-app/home/"))
                     }, {
                       default: mfe_mf_2_main__loadShare__vue__loadShare__.withCtx(() => _cache[5] || (_cache[5] = [
                         mfe_mf_2_main__loadShare__vue__loadShare__.createTextVNode("home")
@@ -6770,8 +6770,8 @@ const _sfc_main = /* @__PURE__ */ mfe_mf_2_main__loadShare__vue__loadShare__.def
                       __: [5]
                     }),
                     mfe_mf_2_main__loadShare__vue__loadShare__.createVNode(_component_el_menu_item, {
-                      index: "/micro-spa-lite/vite-vue-app/about",
-                      onClick: _cache[1] || (_cache[1] = ($event) => mfe_mf_2_main__loadShare__vue__loadShare__.unref(tt$1)("/micro-spa-lite/vite-vue-app/about"))
+                      index: "/module-federation-spa-boilerplate/vite-vue-app/about",
+                      onClick: _cache[1] || (_cache[1] = ($event) => mfe_mf_2_main__loadShare__vue__loadShare__.unref(tt$1)("/module-federation-spa-boilerplate/vite-vue-app/about"))
                     }, {
                       default: mfe_mf_2_main__loadShare__vue__loadShare__.withCtx(() => _cache[6] || (_cache[6] = [
                         mfe_mf_2_main__loadShare__vue__loadShare__.createTextVNode("about")
@@ -6793,8 +6793,8 @@ const _sfc_main = /* @__PURE__ */ mfe_mf_2_main__loadShare__vue__loadShare__.def
                 mfe_mf_2_main__loadShare__vue__loadShare__.createVNode(_component_el_menu_item_group, null, {
                   default: mfe_mf_2_main__loadShare__vue__loadShare__.withCtx(() => [
                     mfe_mf_2_main__loadShare__vue__loadShare__.createVNode(_component_el_menu_item, {
-                      index: "/micro-spa-lite/rspack_react_app/home",
-                      onClick: _cache[2] || (_cache[2] = ($event) => mfe_mf_2_main__loadShare__vue__loadShare__.unref(tt$1)("/micro-spa-lite/rspack_react_app/home"))
+                      index: "/module-federation-spa-boilerplate/rspack_react_app/home",
+                      onClick: _cache[2] || (_cache[2] = ($event) => mfe_mf_2_main__loadShare__vue__loadShare__.unref(tt$1)("/module-federation-spa-boilerplate/rspack_react_app/home"))
                     }, {
                       default: mfe_mf_2_main__loadShare__vue__loadShare__.withCtx(() => _cache[8] || (_cache[8] = [
                         mfe_mf_2_main__loadShare__vue__loadShare__.createTextVNode("home")
@@ -6803,8 +6803,8 @@ const _sfc_main = /* @__PURE__ */ mfe_mf_2_main__loadShare__vue__loadShare__.def
                       __: [8]
                     }),
                     mfe_mf_2_main__loadShare__vue__loadShare__.createVNode(_component_el_menu_item, {
-                      index: "/micro-spa-lite/rspack_react_app/about",
-                      onClick: _cache[3] || (_cache[3] = ($event) => mfe_mf_2_main__loadShare__vue__loadShare__.unref(tt$1)("/micro-spa-lite/rspack_react_app/about"))
+                      index: "/module-federation-spa-boilerplate/rspack_react_app/about",
+                      onClick: _cache[3] || (_cache[3] = ($event) => mfe_mf_2_main__loadShare__vue__loadShare__.unref(tt$1)("/module-federation-spa-boilerplate/rspack_react_app/about"))
                     }, {
                       default: mfe_mf_2_main__loadShare__vue__loadShare__.withCtx(() => _cache[9] || (_cache[9] = [
                         mfe_mf_2_main__loadShare__vue__loadShare__.createTextVNode("about")

@@ -19,7 +19,7 @@ export default ({ command }) => defineConfig({
       shared: ['vue']
     })
   ],
-  base: command === 'serve' ? 'http://localhost:5001' : "https://zhanghongen.github.io/micro-spa-lite/vite-vue-app/dist",
+  base: command === 'serve' ? 'http://localhost:5001' : "https://zhanghongen.github.io/module-federation-spa-boilerplate/vite-vue-app/dist",
   server: {
     origin: "http://localhost:5001",
     cors: true

@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <a href="https://github.com/zhanghongen/micro-spa-lite" target="_blank" aria-label="GitHub">
+    <a href="https://github.com/zhanghongen/module-federation-spa-boilerplate" target="_blank" aria-label="GitHub">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         width="24"
@@ -15,7 +15,7 @@
     </a>
     <h1>Vue Home</h1>
     <p>This is the main landing page of your Vue 3 app.</p>
-    <router-link to="/micro-spa-lite/vite-vue-app/about">Go to About</router-link>
+    <router-link to="/module-federation-spa-boilerplate/vite-vue-app/about">Go to About</router-link>
   </div>
 </template>
 

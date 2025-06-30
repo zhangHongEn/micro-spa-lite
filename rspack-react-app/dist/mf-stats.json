@@ -9,7 +9,7 @@
       "buildName": "rspack_react_app"
     },
     "remoteEntry": {
-      "name": "static/js/rspack_react_app.4ed8d70e.js",
+      "name": "static/js/rspack_react_app.ba62b93e.js",
       "path": "",
       "type": "global"
     },
@@ -22,7 +22,7 @@
     "globalName": "rspack_react_app",
     "pluginVersion": "0.15.0",
     "prefetchInterface": false,
-    "publicPath": "https://zhanghongen.github.io/micro-spa-lite/rspack-react-app/dist/"
+    "publicPath": "https://zhanghongen.github.io/module-federation-spa-boilerplate/rspack-react-app/dist/"
   },
   "shared": [
     {
@@ -88,7 +88,7 @@
         "js": {
           "sync": [
             "static/js/async/lib-router.9e53c002.js",
-            "static/js/async/__federation_expose_main.5ecc68c9.js"
+            "static/js/async/__federation_expose_main.0cf8d4ab.js"
           ],
           "async": []
         },
